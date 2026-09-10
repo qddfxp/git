@@ -1,16 +1,8 @@
 {
   "schema": 1,
   "created": "2026-09-04 21:53:15",
-  "updated": "2026-09-05 00:13:50",
-  "head": "checklist-wording",
-  "main_version": 3,
-  "branches": {
-    "checklist-wording": {
-      "created": "2026-09-05 00:13:50",
-      "from": "main",
-      "from_version": 3,
-      "status": "testing",
-      "purpose": "Checklist条目话术多变，避免固定开头词和句式，每条用不同表达方式"
-    }
-  }
+  "updated": "2026-09-07 23:48:08",
+  "head": "main",
+  "main_version": 8,
+  "branches": {}
 }
